@@ -1,4 +1,14 @@
 # Basic Logic Gate in Minecraft    
+## Introduction  
+用Minecraft紅石電路模擬邏輯閘  
+黃色方塊=X  
+綠色方塊=A  
+紅色方塊=B 
+依據連結顏色方塊的紅石燈判斷輸出  
+NOT/AND/OR/NAND/NOR/XOR/XNOR  
+<img src="https://github.com/user-attachments/assets/949320b1-f7fb-4e8a-ab3c-eb3af5bf659e" width="500"/>
+
+
 
 ## NOT   
 
